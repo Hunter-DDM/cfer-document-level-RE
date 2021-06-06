@@ -1,6 +1,6 @@
 # CFER
 
-Paper: Coarse-to-Fine Entity Representations for Document-level Relation Extraction ([URL](https://arxiv.org/pdf/2012.02507.pdf))
+Paper: Coarse-to-Fine Entity Representations for Document-level Relation Extraction ([URL](https://arxiv.org/pdf/2012.02507))
 
 ## Requirements
 
